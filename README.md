@@ -5,4 +5,4 @@
 <a href="Assignment 3 Academic Writing Report.pdf" >Assignment 3 Academic Writing<a/> <br>
 <a href="Newsletter Industrial Visit 2.pdf" >Assignment 4 Newsletter Industrial Visit<a/> <br>
 <a href="Slide Presentation Design Thinking Group 1 (1) (1) (1).pdf" >Slide Presentation Design Thinking<a/> <br>
-
+<a href="https://drive.google.com/file/d/1v4eVpITTdq_y-FpERWYwJz9Q1iffcGZG/view?usp=sharing" >Video Design Thinking<a/> <br>
