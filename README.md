@@ -42,7 +42,7 @@ It contains 6 assignments with explanations, resources, and personal reflections
 ## 4. Newsletter
 - **About:** Designing a newsletter to summarize insights from the industrial visit.  
 ### **Picture:** 
-![Newsletter](images/newsletter.jpg)  
+![Newsletter](images/industrial_visit.jpeg)  
 ### **Links:**  
 - [Newsletter PDF](Newsletter_Industrial_Visit_2.pdf)  
 ### **Reflection:**  
@@ -62,7 +62,7 @@ This assignment enhanced my communication and design skills, making technical co
 ## 6. Design Thinking
 - **About:** Applying design thinking methodology to solve problems creatively.  
 ### **Picture:** 
-![Design Thinking](images/design_thinking.jpg)  
+![Design Thinking](images/design_thinking.jpeg)  
 ### **Links:**  
 - [Report](Report_Design_Thinking.pdf)  
 - [Slide Presentation](Slide_Presentation_Design_Thinking.pdf)  
