@@ -9,7 +9,7 @@ It contains 6 assignments with explanations, resources, and personal reflections
 
 ### 1. Video
 **About:** Creating a short vlog to document learning experiences.  
-**Picture:** ![Video](images/video.jpg)  
+**Picture:** ![UTM Digital Day]()  
 **Links:**  
 - [YouTube Vlog](https://youtu.be/sYgdaEgtzuI?si=OcN9H47YmHhYaP9P)  
 **Reflection:**  
